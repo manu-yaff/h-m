@@ -3,7 +3,7 @@ index.js contains a simple script to fetch first page of H&M shoes page
 Getting started
 
 - Clone this repo
-- `cd h-,`
+- `cd h-m`
 - Run `npm i`
 - Run `npm run start-json`
 - Run `node index.js` on another window or terminal
