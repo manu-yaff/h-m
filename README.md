@@ -5,7 +5,7 @@ Getting started
 - Clone this repo
 - Run `npm i`
 - Run `npm run start-json`
-- Run `node index.js`
+- Run `node index.js` on another window or terminal
 - You'll see 40 products
 
 What did I do?
