@@ -16,5 +16,5 @@ What did I do?
 - I clicked the button and inspected the XHR requests
 - I copied the url that was fetched. Then, I fetched it from Insomnia to get the data in json
 - I saved the data in the file _data.json_
-- I created a local server to use `fetchon the data`
+- I created a local server to use `fetch` on the data
 - I fetched the json and return all products in the first page (40)
