@@ -4,7 +4,7 @@ const fetch = (...args) =>
 let data;
 
 function getProducts() {
-	return fetch('http://127.0.0.1:5500/data.json')
+	return fetch('http://127.0.0.1:1111/data.json')
 		.then((response) => response.json())
 		.then((json) => {
 			return json;
